@@ -1,2 +1,2 @@
-# bundle_update_summary
+# Bundle Update Summary
 Print a readable summary after running bundle update
